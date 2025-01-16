@@ -53,3 +53,7 @@ parser.add_argument('-lr', default=0.001)
 ## Acknowledgement
 
 The code is built on [SANE](https://github.com/LARS-research/SANE) and [MINDS](https://github.com/cspjiao/MINDS).
+
+---
+
+Note: The architecture provided in this repository has been directly derived from the optimal structure identified using the NAS algorithm applied to the christianity dataset. For simplicity and focus on the core methodology, we have omitted the NAS search script in this release.
